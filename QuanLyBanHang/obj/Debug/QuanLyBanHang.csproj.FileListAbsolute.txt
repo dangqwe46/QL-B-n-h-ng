@@ -1,0 +1,11 @@
+C:\Users\dangq\source\repos\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\dangq\source\repos\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\dangq\source\repos\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\dangq\source\repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojAssemblyReference.cache
+C:\Users\dangq\source\repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMChatlieu.resources
+C:\Users\dangq\source\repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMNhanvien.resources
+C:\Users\dangq\source\repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMain.resources
+C:\Users\dangq\source\repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\dangq\source\repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\dangq\source\repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\dangq\source\repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
